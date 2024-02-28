@@ -1,7 +1,0 @@
-D:\Yr1 Sem3\C#\Question 4\obj\Debug\Question 4.csproj.AssemblyReference.cache
-D:\Yr1 Sem3\C#\Question 4\obj\Debug\Question 4.csproj.CoreCompileInputs.cache
-D:\Yr1 Sem3\C#\Question 4\bin\Debug\Question 4.exe.config
-D:\Yr1 Sem3\C#\Question 4\bin\Debug\Question 4.exe
-D:\Yr1 Sem3\C#\Question 4\bin\Debug\Question 4.pdb
-D:\Yr1 Sem3\C#\Question 4\obj\Debug\Question 4.exe
-D:\Yr1 Sem3\C#\Question 4\obj\Debug\Question 4.pdb
