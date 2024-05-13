@@ -1,0 +1,5 @@
+D:\Yr1 Sem3\C#\Lab Sheets\Lab7\Question 3\obj\Debug\Question 3.csproj.AssemblyReference.cache
+D:\Yr1 Sem3\C#\Lab Sheets\Lab7\Question 3\obj\Debug\Question_3.Form1.resources
+D:\Yr1 Sem3\C#\Lab Sheets\Lab7\Question 3\obj\Debug\Question_3.Properties.Resources.resources
+D:\Yr1 Sem3\C#\Lab Sheets\Lab7\Question 3\obj\Debug\Question 3.csproj.GenerateResource.cache
+D:\Yr1 Sem3\C#\Lab Sheets\Lab7\Question 3\obj\Debug\Question 3.csproj.CoreCompileInputs.cache
